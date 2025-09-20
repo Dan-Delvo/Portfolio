@@ -6,7 +6,7 @@ import Skills from "./section/Skills";
 import Projects from "./section/Projects";
 import Exp from "./section/Exp";
 import Contact from "./section/Contact";
-import logo from "./assets/logo.png"
+import logo from "./assets/Logo.png"
 import PillNav from "./PillNav";
 import { Link } from "react-scroll";
 
