@@ -6,7 +6,7 @@ import Dither from './Dither.jsx'
 import ProfileCard from './components/ProfileCard'
 import Profile from './assets/Profile.jpg'
 import Smooth from './Smooth.jsx'
-import logo from "./assets/logo.png"
+import logo from "./assets/Logo.png"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
